@@ -18,21 +18,22 @@ Les chaînes de caractères ont été historiquement limité en terme de compati
 ### Syntaxe
 
 Template strings utilise l'accent grave (altgr+7) plutot que des simples : " ' . 
-
+```javascript
     var salut = `Hetic World`;
+```
 
 ### Substitution de chaînes de caractères
 
 Template Strings peut utiliser des espaces réservés (placeholder)  en utilisant ${} comme syntaxe :
-
+```javascript
     var nom = `Brontis`;
     console.log(`Salut ${nom} !`);
 
     // => "Salut, Brontis ! "
-
+```
 
 Permet aussi les calculs et opérations avec le placeholder : 
-
+```javascript
     var age = 10
     var capitaine = 50
     console.log(`Age du capitaine : $(age+capitaine)`);
@@ -40,40 +41,43 @@ Permet aussi les calculs et opérations avec le placeholder :
     
     console.log(`Avec 2 capitaines : $(2*(age+capitaine)`);
     // Avec 2 capitaines : 120
-    
-Ils s'utilisent aussi dans les fonctions : 
+```
 
+Ils s'utilisent aussi dans les fonctions : 
+```javascript
     function yo(){ return "--Flipidi flop Wesh 82--";}
     console.log(`La fonction old school : $(yo)} c'est sympa`;
-    
-Pour ajouter des accents graves dans votre placeholder : 
+```
 
+Pour ajouter des accents graves dans votre placeholder : 
+```javascript
     var coucou = `\`Yo\` tout le monde c'est Hetic `;
     // "`Yo` tout le monde c'est Hetic "
-    
+```  
 ### Gestion du multiligne
 
 Plusieurs solutions existent pour faire du multilignes : 
 
 - Antislash : 
 
-
+```javascript
         var coucou = "Salut \ 
         tout le monde";
-    
+``` 
 - Addition : 
 
- 
-
-        var coucou = "Salut" + 
-        " tout le monde";
+      
         
+```javascript
+  var coucou = "Salut" + 
+        " tout le monde";
+```
         
 - Retour à la ligne : 
 
- 
-
-        console.log(`Salut les héticiens et les
-           héticiennes`);
-           
+     
         
+```javascript
+console.log(`Salut les héticiens et les
+           héticiennes`);
+```
