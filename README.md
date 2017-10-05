@@ -1,1 +1,1 @@
-"# ES6-string" 
+"# Template string" 
