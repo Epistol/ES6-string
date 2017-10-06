@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="269fac22-60c1-4484-924d-6ed105e79bff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tristan/tristan.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/final.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,76 +18,101 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="24">
-                <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mika.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mika/mika.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="504">
-                <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tristan.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tristan/tristan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2989">
-                <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                <folding>
-                  <marker date="1507290652911" expanded="true" signature="442:475" ph="/*...*/" />
-                  <marker date="1507290652911" expanded="true" signature="764:797" ph="/*...*/" />
-                  <marker date="1507290652911" expanded="true" signature="1677:1739" ph="/*...*/" />
-                  <marker date="1507290652911" expanded="true" signature="1888:1974" ph="[...]" />
-                  <marker date="1507290652911" expanded="true" signature="2156:2307" ph="/*...*/" />
-                  <marker date="1507290652911" expanded="true" signature="3195:3338" ph="{...}" />
-                  <marker date="1507290652911" expanded="true" signature="3266:3320" ph="{...}" />
-                  <marker date="1507290652911" expanded="true" signature="3439:3472" ph="/*...*/" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mika.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mika/mika.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
-              <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="0">
+                    <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mika.md" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mika/mika.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="590">
+                    <caret line="82" column="3" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="82" selection-end-column="3" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="tristan.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/tristan/tristan.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="681">
+                    <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
+                    <folding>
+                      <marker date="1507290888934" expanded="true" signature="3195:3338" ph="{...}" />
+                      <marker date="1507290888934" expanded="true" signature="3266:3320" ph="{...}" />
+                      <marker date="1507290888934" expanded="true" signature="3439:3472" ph="/*...*/" />
+                    </folding>
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/.gitignore">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="mika.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/mika/mika.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="672">
+                  <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="final.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/final.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="SPLIT">
+                  <first_editor relative-caret-position="657">
+                    <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+                    <folding>
+                      <marker date="1507290860683" expanded="true" signature="727:760" ph="/*...*/" />
+                      <marker date="1507290860683" expanded="true" signature="1049:1082" ph="/*...*/" />
+                      <marker date="1507290860683" expanded="true" signature="3030:3092" ph="/*...*/" />
+                      <marker date="1507290860683" expanded="true" signature="3241:3327" ph="[...]" />
+                      <marker date="1507290860683" expanded="true" signature="3509:3660" ph="/*...*/" />
+                      <marker date="1507290860683" expanded="true" signature="4548:4691" ph="{...}" />
+                      <marker date="1507290860683" expanded="true" signature="4619:4673" ph="{...}" />
+                      <marker date="1507290860683" expanded="true" signature="4792:4825" ph="/*...*/" />
+                    </folding>
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -107,6 +131,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/mika/mika.md" />
+        <option value="$PROJECT_DIR$/final.md" />
         <option value="$PROJECT_DIR$/tristan/tristan.md" />
       </list>
     </option>
@@ -151,7 +176,7 @@
             <path>
               <item name="e6" type="b2602c69:ProjectViewProjectNode" />
               <item name="e6" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mika" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tristan" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -169,6 +194,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\e6" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\Documents\e6\mika" />
     </key>
@@ -198,12 +226,12 @@
       <workItem from="1507203966831" duration="5122000" />
       <workItem from="1507212992941" duration="17000" />
       <workItem from="1507229077912" duration="30000" />
-      <workItem from="1507289825661" duration="646000" />
+      <workItem from="1507289825661" duration="885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5815000" />
+    <option name="totallyTimeSpent" value="6054000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -217,7 +245,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14663726" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
@@ -358,7 +386,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="24">
+          <first_editor relative-caret-position="0">
             <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
             <folding />
           </first_editor>
@@ -374,11 +402,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/final.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="657">
+            <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+            <folding>
+              <marker date="1507290860683" expanded="true" signature="727:760" ph="/*...*/" />
+              <marker date="1507290860683" expanded="true" signature="1049:1082" ph="/*...*/" />
+              <marker date="1507290860683" expanded="true" signature="3030:3092" ph="/*...*/" />
+              <marker date="1507290860683" expanded="true" signature="3241:3327" ph="[...]" />
+              <marker date="1507290860683" expanded="true" signature="3509:3660" ph="/*...*/" />
+              <marker date="1507290860683" expanded="true" signature="4548:4691" ph="{...}" />
+              <marker date="1507290860683" expanded="true" signature="4619:4673" ph="{...}" />
+              <marker date="1507290860683" expanded="true" signature="4792:4825" ph="/*...*/" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mika/mika.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="504">
-            <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <first_editor relative-caret-position="590">
+            <caret line="82" column="3" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="82" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -388,17 +436,12 @@
     <entry file="file://$PROJECT_DIR$/tristan/tristan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2989">
-            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <first_editor relative-caret-position="681">
+            <caret line="142" column="0" lean-forward="false" selection-start-line="142" selection-start-column="0" selection-end-line="142" selection-end-column="0" />
             <folding>
-              <marker date="1507290652911" expanded="true" signature="442:475" ph="/*...*/" />
-              <marker date="1507290652911" expanded="true" signature="764:797" ph="/*...*/" />
-              <marker date="1507290652911" expanded="true" signature="1677:1739" ph="/*...*/" />
-              <marker date="1507290652911" expanded="true" signature="1888:1974" ph="[...]" />
-              <marker date="1507290652911" expanded="true" signature="2156:2307" ph="/*...*/" />
-              <marker date="1507290652911" expanded="true" signature="3195:3338" ph="{...}" />
-              <marker date="1507290652911" expanded="true" signature="3266:3320" ph="{...}" />
-              <marker date="1507290652911" expanded="true" signature="3439:3472" ph="/*...*/" />
+              <marker date="1507290888934" expanded="true" signature="3195:3338" ph="{...}" />
+              <marker date="1507290888934" expanded="true" signature="3266:3320" ph="{...}" />
+              <marker date="1507290888934" expanded="true" signature="3439:3472" ph="/*...*/" />
             </folding>
           </first_editor>
           <second_editor />
